@@ -1,1 +1,1 @@
-prova inserimento testo con editor VI
+prova inserimento testo con editor VI in ambiente di develop
