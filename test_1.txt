@@ -1,2 +1,3 @@
+prova oggi aaa
 prova inserimento testo con editor VI in ambiente di integrazione
 prova inserimento testo con editor VI in ambiente di develop sono in integrazione e sto mergiando
